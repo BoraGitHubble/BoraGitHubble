@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BoraGitHubble
 - 👀 I’m interested in Data.
 - 🌱 I’m currently learning python and SQL.
-- 💞️ I’m looking to collaborate on Data Engineering.
+- 💞️ I’m looking to collaborate on learning python language.
 - 📫 How to reach me: dutchbora@gmail.com
 
 <!---
