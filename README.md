@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BoraGitHubble
+- 👋 Hi, I’m Bora.
 - 👀 I’m interested in Data.
 - 🌱 I’m currently learning python and SQL.
 - 💞️ I’m looking to collaborate on learning python language.
